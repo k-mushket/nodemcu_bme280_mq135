@@ -164,5 +164,6 @@ void loop() {
     } else {
     // If the write is successful, you can print a message about it or perform other actions
     Serial.println("Data written successfully to database.");
+    }
   }
 }
